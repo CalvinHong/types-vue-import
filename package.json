@@ -1,0 +1,25 @@
+{
+  "name": "@types/vue-import",
+  "version": "1.0.0",
+  "description": "typescript vue import dts",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalvinHong/types-vue-import.git"
+  },
+  "keywords": [
+    "vue",
+    "typescript",
+    "import",
+    "vue-import"
+  ],
+  "author": "Calvin <calvin.hongbinfu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalvinHong/types-vue-import/issues"
+  },
+  "homepage": "https://github.com/CalvinHong/types-vue-import#readme"
+}
